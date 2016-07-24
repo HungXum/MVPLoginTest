@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="hint_cid">用户id</string>
+    <string name="hint_address">地址</string>
+    <string name="hint_phone">号码</string>
+    <string name="hint_pname">商品名</string>
+    <string name="hint_pnum">商品数量</string>
+    <string name="hint_price">总价</string>
+    <string name="hint_date">日期</string>
+    <string name="btn_order">提交订单</string>
+</resources>
